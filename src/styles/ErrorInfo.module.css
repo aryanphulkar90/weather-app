@@ -1,0 +1,20 @@
+.errorInfo {
+    display: flex;
+    justify-content: center;
+
+    margin: 20px;
+}
+
+.errorCard {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+    width: 400px;
+    margin: 40px;
+    border-radius: 15px;
+    padding: 20px;
+    background-color: lightcyan;
+    text-align: center;
+}
+
+.errorMsg{
+    margin: 0px;
+}
