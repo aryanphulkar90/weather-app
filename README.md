@@ -18,7 +18,7 @@ In the Search Bar you can enter the name of the city and then click on search ic
 
 Now you will be able to see weather details of the city.
 
-### How I approached the Assignment
+## How I approached the Assignment
 
 Created a React app using "npx create-react-app" command
 
