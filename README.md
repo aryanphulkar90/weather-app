@@ -9,6 +9,8 @@ Install dependencies using command "npm i"
 
 ### `Usage`
 
+Create a .env file and place your Open Weather API Key there and name it REACT_APP_API_KEY.
+
 Open terminal and enter command "npm start"
 
 This runs the app in the development mode.\
